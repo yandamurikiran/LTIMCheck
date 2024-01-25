@@ -1,0 +1,12 @@
+<library>
+	<book>
+		<title>I will Die What to you</title>
+		<author>Jakes Hacker</author>
+		<price>5500</price>
+	</book>
+	<book>
+		<title>Mask man to the slave city</title>
+		<author>Cooper King Hacker</author>
+		<price>6500</price>
+	</book>
+</library>
